@@ -558,7 +558,3 @@ else:
         "5. Nəticələri xəritədə və cədvəldə yoxlayın."
     )
 
-st.caption(
-    "Məkan məlumatları üçün Geoapify və "
-    "© OpenStreetMap contributors mənbələrini qeyd edin."
-)
